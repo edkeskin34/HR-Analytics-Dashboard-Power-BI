@@ -27,6 +27,9 @@ I deliberately separated fact and dimension tables to enable flexible slicing, a
 - **DimSatisfiedLevel / DimRatingLevel**  
   I used these tables to translate numeric scores into meaningful categorical levels for interpretation.
 
+  ![Data Model – Star Schema](images/1-modelview.png)
+
+
 ---
 
 ## DimDate (Calendar Table)
@@ -150,6 +153,10 @@ On this page, I summarized:
 
 My goal was to present a high-level workforce snapshot in a single, intuitive view.
 
+![Overview Dashboard](images/2-Overview.png)
+
+
+
 ---
 
 ### Demographics
@@ -164,6 +171,9 @@ This page includes:
 - Ethnicity combined with average salary analysis  
 
 The purpose of this page was to support Diversity & Inclusion (D&I) insights and long-term workforce planning.
+
+![Demographics Dashboard](images/3-Demographics.png)
+
 
 ---
 
@@ -180,6 +190,9 @@ Key features include:
 
 My objective was to identify alignment or gaps between employee self-perception and managerial evaluation.
 
+![Performance Tracker](images/4-Performance%20Tracker.png)
+
+
 ---
 
 ### Attrition
@@ -195,3 +208,6 @@ On this page, I analyzed attrition by:
 - Hire-date-based time trends  
 
 The goal of this analysis was to generate actionable insights that can inform effective employee retention strategies.
+
+![Attrition Analysis](images/5-Attrition.png)
+
