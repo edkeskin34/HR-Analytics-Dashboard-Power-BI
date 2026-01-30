@@ -190,7 +190,8 @@ Key features include:
 
 My objective was to identify alignment or gaps between employee self-perception and managerial evaluation.
 
-![Performance Tracker](images/4-Performance%20Tracker.png)
+![Performance Tracker](images/4-Performance-Tracker.png)
+
 
 
 ---
