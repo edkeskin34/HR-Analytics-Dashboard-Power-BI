@@ -114,7 +114,9 @@ This approach allowed me to:
 
 - Improve overall model readability  
 - Maintain a clean separation between data structure and business logic  
-- Reuse measures consistently across multiple report pages and visuals  
+- Reuse measures consistently across multiple report pages and visuals
+- ![Measures Table – Centralized DAX Calculations](images/Measures.png)
+
 
 ---
 
