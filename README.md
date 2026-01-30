@@ -1,1 +1,1 @@
-# powerbi-hr-analytics-project
+HR Analytics Dashboard – Power BI
