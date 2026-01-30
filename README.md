@@ -86,8 +86,6 @@ On this page, I summarized:
 
 My goal was to present a high-level workforce snapshot in a single, intuitive view.
 
-![Overview Page](images/overview_page.png)
-
 ---
 
 ### Demographics
