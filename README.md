@@ -131,8 +131,7 @@ I deliberately applied advanced DAX functions to control filter context, activat
 - **SELECTEDVALUE()** – to enable single-employee drill-down analysis  
 - **FORMAT()** – to improve the readability of dates and percentage values
 
-  ---
-This DAX-driven approach allowed me to perform flexible analysis from a single data model while preserving both accuracy and performance.
+--> This DAX-driven approach allowed me to perform flexible analysis from a single data model while preserving both accuracy and performance.
 
 ---
 
